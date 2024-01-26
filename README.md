@@ -31,3 +31,8 @@ I'm challenging myself to not have any sort of direct combat. Conflict can arise
 
 At the end of the day, youre running a city, and the focus should be on the city, and more importantly the people living in it. A token security force to protect a city from outside actors, or to provide distater relief is one thing, providing infinte funding to said security force so they can be used to suprress one's citizens and such is a very different one.
 
+Army vs militia vs whatever
+IF a military can't be used to invade others, what does it do? 
+
+The world still exists, outside actors can still act aganist you. So you need to have some sort of means of protecting yourself. Tribute? Self defense force? What do they do in peace time? An established military will want to be used (either the inviduvual troops within it, or more likely the powers that be running it) as it will want to make itself seem justified to be used. What if the focus of a group was for disaster relief, 
+
