@@ -36,3 +36,13 @@ IF a military can't be used to invade others, what does it do?
 
 The world still exists, outside actors can still act aganist you. So you need to have some sort of means of protecting yourself. Tribute? Self defense force? What do they do in peace time? An established military will want to be used (either the inviduvual troops within it, or more likely the powers that be running it) as it will want to make itself seem justified to be used. What if the focus of a group was for disaster relief, 
 
+# Gameplay Contd
+
+As noted before, the broad idea is to lead your city to success. THis can come in the following forms, represented by abstract meters. Currently the exact end goal is being brainstormed, however the current goal will be just to get one of the following to a score of 100, while avoiding hitting a score of -100 in any other meter. Hitting 100 with any of these will result in a win, while hitting -100 will result in a loss.
+
+1: Arts and culture. Your city has become a hub for the arts, a center for learning and knowlede, or a seat of power with its cultural exports. 
+
+2: Economic. Either through trade or production, you are a force to be reckoned with. Do you have a monopoly on a valuable resource? Are your docks among the largest in the world, diverting trade wherever possible?
+
+3: Happiness: People flock to your city due to stories being told of how wonderful life is there. Healthcare, econimic stability, secuity from outside actors; these are but a few of the things the average citizen is thinking of on a daily basis.
+
